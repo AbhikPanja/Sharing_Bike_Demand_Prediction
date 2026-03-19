@@ -100,7 +100,7 @@ Models were evaluated using:
 ### 📸 Final Model Performance
 
 
-![Model Performance](./assets/model_results.png)
+![Model Performance](assets/model_results.png)
 
 ---
 
